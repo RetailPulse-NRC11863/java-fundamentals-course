@@ -124,7 +124,7 @@ Crear otro estudiante y reutilizar el método para mostrar su información.
 **Descripción:**  
 El estudiante aprenderá a ingresar datos desde la consola usando `Scanner`. El programa pedirá el nombre, la edad y el promedio de un estudiante, y luego mostrará si aprobó o necesita practicar más.
 
-**Enlace:** [Ver la lección](Agregar enlace de YouTube aquí)
+**Enlace:** [https://www.youtube.com/watch?v=fzcz8hjIvBk](https://www.youtube.com/watch?v=fzcz8hjIvBk)
 
 **Conceptos clave:**  
 `Scanner` permite leer datos escritos por el usuario. `nextLine()` lee texto, `nextInt()` lee números enteros y `nextDouble()` lee números decimales.
@@ -190,7 +190,7 @@ Crear un registro simple de estudiantes en Java.
 ## Recursos Adicionales
 
 **Código fuente completo:**  
-[Agregar enlace del repositorio aquí]
+[Enlace del Repositorio](https://github.com/RetailPulse-NRC11863/java-fundamentals-course)
 
 **Editor online principal:**  
 [OnlineGDB Java Compiler](https://www.onlinegdb.com/online_java_compiler)
@@ -279,8 +279,8 @@ Carrera de Ingeniería de Software
 Período 202610
 Curso: Desarrollo de Aplicaciones Open Source
 
-**Nombre del equipo:** [Agregar nombre del equipo]
-**Líder del equipo:** [Agregar nombres y apellidos]
+**Nombre del equipo:** RetailPulse
+**Líder del equipo:** Fabio Cesar Vallejo Trujillo
 
 **Integrantes del equipo:**
 
@@ -288,6 +288,5 @@ Curso: Desarrollo de Aplicaciones Open Source
 * [Integrante 2]
 * [Integrante 3]
 * [Integrante 4]
-* [Integrante 5]
+* Vallejo Trujillo, Fabio Cesar - U20211D989
 
-**Fecha de entrega:** [Agregar fecha]

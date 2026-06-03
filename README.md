@@ -141,7 +141,7 @@ Ejecutar el programa con un promedio aprobado y luego con un promedio desaprobad
 **Descripción:**  
 El estudiante aprenderá la base de la programación orientada a objetos. Se creará una clase `Student` con atributos, constructor y un método para mostrar información.
 
-**Enlace:** [Ver la lección](Agregar enlace de YouTube aquí)
+**Enlace:** [https://www.youtube.com/watch?v=xEIQCtwJXL8](https://www.youtube.com/watch?v=xEIQCtwJXL8)
 
 **Conceptos clave:**  
 Una clase es como un molde. Un objeto es algo creado a partir de ese molde. Los atributos guardan datos. Los métodos representan acciones. El constructor permite crear objetos con datos iniciales.

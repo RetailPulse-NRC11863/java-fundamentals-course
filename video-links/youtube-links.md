@@ -12,8 +12,8 @@ This file contains the links for each lesson video and its corresponding online 
 | Lesson 6 | Methods and parameters | Jesús Godoy | Pending | Pending |
 | Lesson 7 | Scanner input | Fabio Vallejo | [https://www.youtube.com/watch?v=fzcz8hjIvBk](https://www.youtube.com/watch?v=fzcz8hjIvBk) | Completed |
 | Lesson 8 | Classes, objects and constructors | Fabio Vallejo | [https://www.youtube.com/watch?v=xEIQCtwJXL8](https://www.youtube.com/watch?v=xEIQCtwJXL8) | Completed |
-| Lesson 9 | Getters, setters and encapsulation | Luis Rubio | Pending | Pending |
-| Lesson 10 | Final project and common mistakes | Luis Rubio | Pending | Pending |
+| Lesson 9 | Getters, setters and encapsulation | Luis Rubio | [https://youtu.be/enCer_UfgsQ](https://youtu.be/enCer_UfgsQ) | Completed |
+| Lesson 10 | Final project and common mistakes | Luis Rubio | [https://youtu.be/mYha4wD94cQ](https://youtu.be/mYha4wD94cQ) | Completed |
 
 ## Notes
 

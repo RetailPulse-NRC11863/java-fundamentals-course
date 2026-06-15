@@ -284,7 +284,7 @@ Curso: Desarrollo de Aplicaciones Open Source
 
 **Integrantes del equipo:**
 
-* [Integrante 1]
+* Godoy Santillan, Jesús Andres - U20251C350
 * [Integrante 2]
 * [Integrante 3]
 * [Integrante 4]

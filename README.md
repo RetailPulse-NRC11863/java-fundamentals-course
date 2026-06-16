@@ -39,7 +39,7 @@ Abrir el archivo inicial de la lección y completar mensajes simples en consola.
 **Descripción:**  
 El estudiante aprenderá a guardar información usando variables. Se usarán datos simples de un estudiante, como nombre, edad, promedio y estado activo.
 
-**Enlace:** [Ver la lección](Agregar enlace de YouTube aquí)
+**Enlace:** [https://www.youtube.com/watch?v=iGuoIUs8GEg](https://www.youtube.com/watch?v=iGuoIUs8GEg)
 
 **Conceptos clave:**  
 Una variable es como una caja donde se guarda un dato. `String` guarda texto, `int` guarda números enteros, `double` guarda números decimales y `boolean` guarda valores verdadero o falso.

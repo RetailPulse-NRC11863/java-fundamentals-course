@@ -4,8 +4,8 @@ This file contains the links for each lesson video and its corresponding online 
 
 | Lesson | Title | Responsible | YouTube Link | Status |
 |---|---|---|---|---|
-| Lesson 1 | What is programming and Java? | Anghelo Faustino | Pending | Pending |
-| Lesson 2 | Variables and data types | Anghelo Faustino | Pending | Pending |
+| Lesson 1 | What is programming and Java? | Anghelo Faustino | [https://www.youtube.com/watch?v=S6EhBlHk38g](https://www.youtube.com/watch?v=fzcz8hjIvBk) | Completed |
+| Lesson 2 | Variables and data types | Anghelo Faustino | [https://www.youtube.com/watch?v=iGuoIUs8GEg](https://www.youtube.com/watch?v=fzcz8hjIvBk) | Completed |
 | Lesson 3 | Operators and expressions | José María Franco | Pending | Pending |
 | Lesson 4 | Conditionals if-else | José María Franco | Pending | Pending |
 | Lesson 5 | Loops for and while | Jesús Godoy | Pending | Pending |

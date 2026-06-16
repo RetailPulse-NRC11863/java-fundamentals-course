@@ -22,7 +22,7 @@ Durante el curso, el estudiante aprenderá conceptos básicos como impresión en
 **Descripción:**  
 En esta primera lección, el estudiante comprenderá qué significa programar, qué es Java y cómo se ejecuta un programa básico. Se mostrará el clásico ejemplo de impresión en consola para perder el miedo al código.
 
-**Enlace:** [Ver la lección](Agregar enlace de YouTube aquí)
+**Enlace:** [https://www.youtube.com/watch?v=S6EhBlHk38g](https://www.youtube.com/watch?v=S6EhBlHk38g)
 
 **Conceptos clave:**  
 Programar es dar instrucciones a una computadora. Java permite escribir programas usando una estructura clara. `System.out.println()` sirve para mostrar mensajes en consola.
@@ -284,7 +284,7 @@ Curso: Desarrollo de Aplicaciones Open Source
 
 **Integrantes del equipo:**
 
-* [Integrante 1]
+* Faustino Hurtado, Anghelo Edwin - U20241B331
 * [Integrante 2]
 * [Integrante 3]
 * [Integrante 4]

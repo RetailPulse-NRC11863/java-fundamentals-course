@@ -90,7 +90,7 @@ Cambiar el promedio de un estudiante y observar cómo cambia el resultado del pr
 **Descripción:**  
 El estudiante aprenderá a repetir instrucciones sin escribir el mismo código muchas veces. Se usarán bucles para mostrar una lista de estudiantes y una cuenta regresiva.
 
-**Enlace:** [Ver la lección](Agregar enlace de YouTube aquí)
+**Enlace:** [https://youtu.be/tjfpjbRGISI?si=REFaH3SZKvrUBhjB](https://youtu.be/tjfpjbRGISI?si=REFaH3SZKvrUBhjB)
 
 **Conceptos clave:**  
 Un bucle repite instrucciones. `for` se usa cuando sabemos cuántas veces repetir. `while` se usa mientras una condición sea verdadera.
@@ -285,8 +285,7 @@ Curso: Desarrollo de Aplicaciones Open Source
 **Integrantes del equipo:**
 
 * Faustino Hurtado, Anghelo Edwin - U20241B331
-* [Integrante 2]
+* Godoy Santillan, Jesús Andres - U20251C350
 * [Integrante 3]
 * [Integrante 4]
 * Vallejo Trujillo, Fabio Cesar - U20211D989
-

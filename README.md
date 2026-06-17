@@ -107,7 +107,7 @@ Modificar el bucle para mostrar más estudiantes en consola.
 **Descripción:**  
 El estudiante aprenderá a organizar el código usando métodos. Se crearán métodos para mostrar información de un estudiante y verificar si aprobó.
 
-**Enlace:** [Ver la lección](Agregar enlace de YouTube aquí)
+**Enlace:** [https://youtu.be/KSTMZCMJW-Y?si=UGdPYxgmoL3ltGLv](https://youtu.be/KSTMZCMJW-Y?si=UGdPYxgmoL3ltGLv)
 
 **Conceptos clave:**  
 Un método es un bloque de código que realiza una tarea. Los parámetros permiten enviar datos a un método. Los métodos ayudan a evitar repetir código.
@@ -285,7 +285,7 @@ Curso: Desarrollo de Aplicaciones Open Source
 **Integrantes del equipo:**
 
 * Faustino Hurtado, Anghelo Edwin - U20241B331
+* Franco del Carpio, José María - U202319178
 * Godoy Santillan, Jesús Andres - U20251C350
-* [Integrante 3]
-* [Integrante 4]
+* Rubio Ortiz, Luis Sebastián U202310349
 * Vallejo Trujillo, Fabio Cesar - U20211D989

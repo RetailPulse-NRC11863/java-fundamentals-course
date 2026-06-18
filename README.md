@@ -17,7 +17,7 @@ Durante el curso, el estudiante aprenderá conceptos básicos como impresión en
 
 ## Secuencia de la Lección
 
-### Lección 1: ¿Qué es programar y qué es Java? (6 minutos)
+### Lección 1: ¿Qué es programar y qué es Java?
 
 **Descripción:**  
 En esta primera lección, el estudiante comprenderá qué significa programar, qué es Java y cómo se ejecuta un programa básico. Se mostrará el clásico ejemplo de impresión en consola para perder el miedo al código.
@@ -34,7 +34,7 @@ Abrir el archivo inicial de la lección y completar mensajes simples en consola.
 
 ---
 
-### Lección 2: Variables y tipos de datos (6 minutos)
+### Lección 2: Variables y tipos de datos
 
 **Descripción:**  
 El estudiante aprenderá a guardar información usando variables. Se usarán datos simples de un estudiante, como nombre, edad, promedio y estado activo.
@@ -51,7 +51,7 @@ Crear variables con datos de un estudiante e imprimirlas en consola.
 
 ---
 
-### Lección 3: Operadores y expresiones (6 minutos)
+### Lección 3: Operadores y expresiones
 
 **Descripción:**  
 El estudiante aprenderá a realizar operaciones matemáticas básicas en Java. Se calculará el promedio de un estudiante usando tres notas.
@@ -68,7 +68,7 @@ Cambiar las notas de un estudiante y calcular un nuevo promedio.
 
 ---
 
-### Lección 4: Condicionales if-else (6 minutos)
+### Lección 4: Condicionales if-else
 
 **Descripción:**  
 El estudiante aprenderá a hacer que un programa tome decisiones. Se evaluará si un estudiante aprobó o necesita practicar más según su promedio.
@@ -85,7 +85,7 @@ Cambiar el promedio de un estudiante y observar cómo cambia el resultado del pr
 
 ---
 
-### Lección 5: Bucles for y while (6 minutos)
+### Lección 5: Bucles for y while
 
 **Descripción:**  
 El estudiante aprenderá a repetir instrucciones sin escribir el mismo código muchas veces. Se usarán bucles para mostrar una lista de estudiantes y una cuenta regresiva.
@@ -102,7 +102,7 @@ Modificar el bucle para mostrar más estudiantes en consola.
 
 ---
 
-### Lección 6: Métodos y parámetros (6 minutos)
+### Lección 6: Métodos y parámetros
 
 **Descripción:**  
 El estudiante aprenderá a organizar el código usando métodos. Se crearán métodos para mostrar información de un estudiante y verificar si aprobó.
@@ -119,7 +119,7 @@ Crear otro estudiante y reutilizar el método para mostrar su información.
 
 ---
 
-### Lección 7: Entrada de datos con Scanner (6 minutos)
+### Lección 7: Entrada de datos con Scanner
 
 **Descripción:**  
 El estudiante aprenderá a ingresar datos desde la consola usando `Scanner`. El programa pedirá el nombre, la edad y el promedio de un estudiante, y luego mostrará si aprobó o necesita practicar más.
@@ -136,7 +136,7 @@ Ejecutar el programa con un promedio aprobado y luego con un promedio desaprobad
 
 ---
 
-### Lección 8: Clases, objetos y constructores (6 minutos)
+### Lección 8: Clases, objetos y constructores
 
 **Descripción:**  
 El estudiante aprenderá la base de la programación orientada a objetos. Se creará una clase `Student` con atributos, constructor y un método para mostrar información.
@@ -153,7 +153,7 @@ Crear un tercer estudiante usando la misma clase `Student`.
 
 ---
 
-### Lección 9: Getters, setters y encapsulación (6 minutos)
+### Lección 9: Getters, setters y encapsulación
 
 **Descripción:**  
 El estudiante aprenderá a proteger los datos de una clase usando encapsulación. Se usarán atributos privados, getters para leer datos y setters para modificar valores con control.
@@ -170,7 +170,7 @@ Cambiar el promedio de un estudiante a un valor válido y luego probar con un va
 
 ---
 
-### Lección 10: Proyecto final y errores comunes (6 minutos)
+### Lección 10: Proyecto final y errores comunes
 
 **Descripción:**  
 En esta última lección se integrará todo lo aprendido en un programa final de registro de estudiantes. Se crearán varios objetos, se guardarán en un array, se mostrará su información, se calculará el promedio general y se identificará al estudiante con mejor promedio.

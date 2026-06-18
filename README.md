@@ -11,7 +11,7 @@ Durante el curso, el estudiante aprenderá conceptos básicos como impresión en
 **Prerrequisitos:** Ninguno  
 **Herramientas necesarias:** Solo navegador web (Chrome, Firefox, Safari o Edge)  
 **Editor online sugerido:** OnlineGDB Java Compiler  
-**Repositorio de código fuente:** [Agregar enlace del repositorio aquí]
+**Repositorio de código fuente:** [https://github.com/RetailPulse-NRC11863/java-fundamentals-course](https://github.com/RetailPulse-NRC11863/java-fundamentals-course)
 
 ---
 
@@ -158,7 +158,7 @@ Crear un tercer estudiante usando la misma clase `Student`.
 **Descripción:**  
 El estudiante aprenderá a proteger los datos de una clase usando encapsulación. Se usarán atributos privados, getters para leer datos y setters para modificar valores con control.
 
-**Enlace:** [Ver la lección](Agregar enlace de YouTube aquí)
+**Enlace:** [https://youtu.be/enCer_UfgsQ](https://youtu.be/enCer_UfgsQ)
 
 **Conceptos clave:**  
 La encapsulación protege los datos. `private` evita el acceso directo a los atributos. Los getters permiten leer datos y los setters permiten modificarlos con validación.
@@ -175,7 +175,7 @@ Cambiar el promedio de un estudiante a un valor válido y luego probar con un va
 **Descripción:**  
 En esta última lección se integrará todo lo aprendido en un programa final de registro de estudiantes. Se crearán varios objetos, se guardarán en un array, se mostrará su información, se calculará el promedio general y se identificará al estudiante con mejor promedio.
 
-**Enlace:** [Ver la lección](Agregar enlace de YouTube aquí)
+**Enlace:** [https://youtu.be/mYha4wD94cQ](https://youtu.be/mYha4wD94cQ)
 
 **Conceptos clave:**  
 El proyecto final combina variables, condicionales, bucles, métodos, clases, objetos, constructores, encapsulación y arrays. También se revisan errores comunes como olvidar punto y coma, cerrar mal llaves o confundir nombres de variables.

@@ -56,7 +56,7 @@ Crear variables con datos de un estudiante e imprimirlas en consola.
 **Descripción:**  
 El estudiante aprenderá a realizar operaciones matemáticas básicas en Java. Se calculará el promedio de un estudiante usando tres notas.
 
-**Enlace:** [Ver la lección](Agregar enlace de YouTube aquí)
+**Enlace:** [https://www.youtube.com/watch?v=_AcHbd8zbtQ](https://www.youtube.com/watch?v=_AcHbd8zbtQ)
 
 **Conceptos clave:**  
 Los operadores permiten realizar cálculos. Se usarán suma, resta, multiplicación y división. Una expresión combina valores y operadores para producir un resultado.
@@ -73,7 +73,7 @@ Cambiar las notas de un estudiante y calcular un nuevo promedio.
 **Descripción:**  
 El estudiante aprenderá a hacer que un programa tome decisiones. Se evaluará si un estudiante aprobó o necesita practicar más según su promedio.
 
-**Enlace:** [Ver la lección](Agregar enlace de YouTube aquí)
+**Enlace:** [https://www.youtube.com/watch?v=FFjpnTTvSOA](https://www.youtube.com/watch?v=FFjpnTTvSOA)
 
 **Conceptos clave:**  
 `if` permite ejecutar código si una condición se cumple. `else` permite responder cuando la condición no se cumple. Las condiciones ayudan a que el programa tenga respuestas diferentes.

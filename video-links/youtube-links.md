@@ -6,8 +6,8 @@ This file contains the links for each lesson video and its corresponding online 
 |---|---|---|---|---|
 | Lesson 1 | What is programming and Java? | Anghelo Faustino | [https://www.youtube.com/watch?v=67EG9lrZFgc](https://www.youtube.com/watch?v=67EG9lrZFgc) | Completed |
 | Lesson 2 | Variables and data types | Anghelo Faustino | [https://www.youtube.com/watch?v=iGuoIUs8GEg](https://www.youtube.com/watch?v=iGuoIUs8GEg) | Completed |
-| Lesson 3 | Operators and expressions | José María Franco | Pending | Pending |
-| Lesson 4 | Conditionals if-else | José María Franco | Pending | Pending |
+| Lesson 3 | Operators and expressions | José María Franco | [https://www.youtube.com/watch?v=_AcHbd8zbtQ](https://www.youtube.com/watch?v=_AcHbd8zbtQ) | Completed |
+| Lesson 4 | Conditionals if-else | José María Franco | [https://www.youtube.com/watch?v=FFjpnTTvSOA](https://www.youtube.com/watch?v=FFjpnTTvSOA) | Completed |
 | Lesson 5 | Loops for and while | Jesús Godoy | [https://youtu.be/tjfpjbRGISI?si=REFaH3SZKvrUBhjB](https://youtu.be/tjfpjbRGISI?si=REFaH3SZKvrUBhjB) | Completed |
 | Lesson 6 | Methods and parameters | Jesús Godoy | [https://youtu.be/KSTMZCMJW-Y?si=UGdPYxgmoL3ltGLv](https://youtu.be/KSTMZCMJW-Y?si=UGdPYxgmoL3ltGLv) | Completed |
 | Lesson 7 | Scanner input | Fabio Vallejo | [https://www.youtube.com/watch?v=fzcz8hjIvBk](https://www.youtube.com/watch?v=fzcz8hjIvBk) | Completed |
